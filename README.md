@@ -38,7 +38,7 @@
 
 ### Elections of Officers
 
-## Technicak Decision Making
+## Technical Decision Making
 As part of their responsibilities defined in [WG Officers](), officers need to ensure efficient and effective decision-making. The decision making process in WGs is intended to be as inclusive as possible. WGs shall attempt to use consensus to make decisions. If consensus cannot be reached, voting mechanisms may be used. 
 * Formal notice SHALL be given for decision making, e.g.:
  * Inclusion of a document on an agenda, proposing a specific decision to be taken (e.g. Change|Pull Request)
