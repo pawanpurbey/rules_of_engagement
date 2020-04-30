@@ -166,8 +166,66 @@ This section provides a summary of the voting procedures defined in section [Usi
 
 ## Works Flow
 ### Technical Specifications Development Phases
-The following diagram depictures the development phases of technical documents.
-
+In this section the diagram below depictures the development phases of technical documents.
+<table>
+  <caption>Technical Specifications Development Phases</caption>
+  <thead>
+    <tr>
+	    <th>Phase</th>
+	    <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	    <td><strong>Work Item</strong></td>
+      <td>In this phase the group agrees the scope of the work to be developed. [Work Item template]()</br>
+          Any member can provide a new Work Item proposal, the document is discussed among the group and further elaborated.
+          The group will vote whether the Work Item is formally approved and endorsed by the majority of the group or rejected.</br>
+          If the proposal is approved, the Work Item is moved to the next phase, <strong>Technical Development</strong>. </td>
+    </tr>
+    <tr>
+	    <td><strong>Technical Development</strong></td>
+      <td>A Technical Specification MAY be composed of one or more documents:
+        <ul>
+          <li><strong>Requirements Document</strong>, [RD]()</li>
+          <li><strong>Architecture Document</strong>, [AD]()</li>
+          <li><strong>Technical Specification Document(s)</strong>, [TS]()</li>
+          <li><strong>Supporting Document(s)</strong>, [SUP]()</li>
+        </ul>
+        <strong>Note:</strong> in some cases the group MAY agree to develop a single document that contains the above list as sections.</br>
+        The first document to be developed is the <strong>Requirements Document</strong>,[RD](). It contains the business requirements (not technical requiremnts). The busisness requirements are derived from the Use Cases described in the <strong>RD</strong> document.</br>
+        Once the [RD]() document is completed, it can be moved forward to the next development phases: 
+        <ul>
+          <li><strong>Review | Approval</strong></li>
+          <li><strong>Ratification</strong></li>
+          <li><strong>Publication | Maintenance</strong><li>
+        </ul>
+        before continuing with the development of the rest of the documents.</br>
+        Once the [RD]() document is finalized, the WG has the necessary input: (business requirements) to proceed with the development of rest of the Technical Specifications.
+      </td>
+   </tr>
+   <tr>
+	    <td><strong>Review | WG Approval</strong></td>
+	    <td>In this phase, the document(s) developed by the WG are formally reviewed by the group. Once the WG completes the formal <strong>Review</strong> the document(s) MUST be agreed by the WG before sending the document(s) to the Steering Committee for formal <strong>Ratification</strong>.</td>
+   </tr>
+   <tr>
+	    <td><strong>Steering Committee Ratification</strong></td>
+	    <td>Once the document(s) are <strong>Reviewed</strong> and agreed by the group, the document(s) are sent to the Steering Committee for formal <strong>Ratification</strong>.</td>
+   </tr>   
+   <tr>
+	    <td><strong>Publication | Maintenance</strong></td>
+	    <td>Upon Steering Committee <strong>Ratification</strong> the document(s) are ready for <strong>Publication</strong>.</br>
+      To publish the document(s), the Maintainer will merge the "staging" branch into the "master" branch. </br>
+      The publication will be done authomatically.</br>
+      The last phase is the <strong>Maintenance</strong> phase. The Technical Specifications are now available to the public for downloading.</br
+      >  
+      This phase is of paramount importance. It is in this phase when the Specifications will be adopted by the market.</br>
+      The WG needs to open a via of "dialogue" with the public via <strong>GitHub Issues</strong> and other forms of engagement. </br>
+      The input collected during this <strong>Maintenance</strong> phase SHOULD be used to improve the Technical Specifications as well as to collect business requirements for future releases.
+      </td>
+   </tr>   
+  </tbody>
+</table>
 <figure>
 	<img src="images/omp-dev-process.svg" alt="OMP Technical Specifications Development Phases">
 	<figcaption>OMP Technical Specifications Development Phases</figcaption>
@@ -192,11 +250,11 @@ The following diagram depictures the development phases of technical documents.
       <td>This branch contains the latest version of the Technical Specfication approved by the Working Group and ratified by the Technical Steering Committee. Its content will be moved into a release-tag, to perserve the content of the version.</td>
    </tr>
    <tr>
-	    <td>"staging</td>
+	    <td>"staging"</td>
 	    <td>This branch contains a draft specification that are stable, approved by the Working Group but still under development. This branch SHALL NOT contain any feature that is not part of the delivery plan.</td>
    </tr>
    <tr>
-	    <td>"feature-branch-x</td>
+	    <td>"feature-branch-x"</td>
 	    <td>Feature branches are dedicated to develop specific features, concepts, sections, etc. These branches are not stable, content is developed here until it is stable and completed. At that point it can be merged into the "staging" branch. </td>
    </tr>
   </tbody>
