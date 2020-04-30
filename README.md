@@ -164,7 +164,15 @@ This section provides a summary of the voting procedures defined in section [Usi
 
 ## Working with other organizations
 
-## Work Flow
+## Works Flow
+### Technical Specifications Development Phases
+The following diagram depictures the development phases of technical documents.
+
+<figure>
+	<img src="images/omp-dev-process.svg" alt="OMP Technical Specifications Development Phases">
+	<figcaption>OMP Technical Specifications Development Phases</figcaption>
+</figure>
+
 ### GitHub Flow
 <table>
   <caption>GitHub Work Flow</caption>
