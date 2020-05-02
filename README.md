@@ -1,7 +1,7 @@
 # Rules of Engagement
 
 <figure>
-	<img src="images/omp_overview.svg" alt="OMP Overview">
+	<img src="images/omp-overview.svg" alt="OMP Overview">
 	<figcaption>OMP Overview</figcaption>
 </figure>
 
