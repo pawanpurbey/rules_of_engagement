@@ -1,8 +1,10 @@
 # Rules of Engagement
+
 <figure>
 	<img src="images/omp_overview.svg" alt="OMP Overview">
 	<figcaption>OMP Overview</figcaption>
 </figure>
+
 ## Organization Structure
 
 <figure>
