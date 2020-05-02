@@ -1,4 +1,8 @@
 # Rules of Engagement
+<figure>
+	<img src="images/omp_overview.svg" alt="OMP Overview">
+	<figcaption>OMP Overview</figcaption>
+</figure>
 ## Organization Structure
 
 <figure>
@@ -164,7 +168,7 @@ This section provides a summary of the voting procedures defined in section [Usi
 
 ## Working with other organizations
 
-## Works Flow
+## Work Flow
 ### Technical Specifications Development Phases
 In this section the diagram below depictures the development phases of technical documents.
 <table>
