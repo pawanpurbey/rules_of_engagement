@@ -5,6 +5,71 @@
 	<figcaption>OMP Overview</figcaption>
 </figure>
 
+<table>
+  <caption>OMP Overivew</caption>
+  <thead>
+    <tr>
+	    <th>Category</th>
+      <th>System</th>
+	    <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr>
+	    <td rowspan="4"><i>Public</i></td>
+      <td><a href="https://" target="_blank"><strong>Website</strong></a></td>
+      <td>Public website dedicated to marketing content ...</td>
+   </tr>
+   <tr>
+      <td><a href="https://" target="_blank"><strong>Technical Publication</strong></a></td>
+      <td>Technical Specifications created by Open Manufacturig Platform ...</td>
+   </tr>
+   <tr>
+      <td><a href="https://" target="_blank"><strong>Company Enrolment</strong></a></td>
+      <td>Process steps to join OMP ...</td>
+   </tr>
+   <tr>
+      <td><a href="https://" target="_blank"><strong>Company Onboarding</strong></a></td>
+      <td>Welcome to OMP! ...</td>
+   </tr>
+
+   <tr>
+	    <td rowspan="5"><i>Private - MS Teams</i></td>
+      <td><a href="https://" target="_blank"><strong>Messaging</strong></a></td>
+      <td> ...</td>
+   </tr>
+   <tr>
+      <td><a href="https://" target="_blank"><strong>Meetings</strong></a></td>
+      <td> ...</td>
+   </tr>
+   <tr>
+      <td><a href="https://" target="_blank"><strong>Calendar</strong></a></td>
+      <td> ...</td>
+   </tr>
+   <tr>
+      <td><a href="https://" target="_blank"><strong>Non-Technical Docs</strong></a></td>
+      <td> ...</td>
+   </tr>
+   <tr>
+      <td><a href="https://" target="_blank"><strong>Onboarding Members in MS Teams</strong></a></td>
+      <td> Welcome to OMP MS Teams! ...</td>
+   </tr>
+   <tr>
+	    <td rowspan="3"><i>Private - GitHub</i></td>
+      <td><a href="https://" target="_blank"><strong>Rules of Engagement</strong></a></td>
+      <td> ...</td>
+   </tr>
+   <tr>
+      <td><a href="https://" target="_blank"><strong>Tech Doc Devlopment</strong></a></td>
+      <td> ...</td>
+   </tr>
+   <tr>
+      <td><a href="https://" target="_blank"><strong>Onboarding Members in GitHub</strong></a></td>
+      <td> Welcome to OMP GitHub Account!...</td>
+   </tr>
+  </tbody>
+</table>
+
 ## Governance
 ### Organization Structure
 <figure>
