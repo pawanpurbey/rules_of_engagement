@@ -91,7 +91,7 @@
 * [Maintainer(s)](#maintainers)
 #### Members
 #### Editors
-#### WG Chairs - Officers
+#### WG Chairs Officers
 * In performing their tasks, officers SHALL maintain strict impartiality and act in the interest of the Organization.
 * Chairs MAY limit the amount of time allocated to a particular agenda item or discussion point.
 * Chairs SHALL, after a reasonable period of discussion time, use means to quickly reach a decision including (but not limited to):
@@ -108,7 +108,7 @@
 
 ##### Elections of Officers
 
-#### Maitainers
+#### Maintainers
 
 ## The Way We Work
 ### Meetings
@@ -349,14 +349,16 @@ In this section the diagram below depictures the development phases of technical
 ### Documents
 * [Charters]()
 * [Dictionary]()
-* [Templates]()
+* [Templates](https://github.com/OpenManufacturingPlatform/templates)
 * [Publication]()
 
 ### Collaboration Tools
 * [MS Teams]()
+* [GitHub](https://github.com/OpenManufacturingPlatform)
 ### How to Guidelines
 ### GitHub
-* [Issue Creation]()
-* [Creation Pull Request]()
+* [Issue Creation](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue)
+* [Creation Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+* [Managing Project Boards](https://help.github.com/en/github/managing-your-work-on-github/managing-project-boards)
 
 
