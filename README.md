@@ -1,32 +1,32 @@
 # Rules of Engagement
-
+## OMP Tools - Processes - People
 <figure>
 	<img src="images/omp-overview.svg" alt="OMP Overview">
 	<figcaption>OMP Overview</figcaption>
 </figure>
 
-## Organization Structure
-
+## Governance
+### Organization Structure
 <figure>
 	<img src="images/omp_governance.svg" alt="OMP Governance Structure">
 	<figcaption>OMP Governance Structure</figcaption>
 </figure>
 
-## Technical Steering Committee
-
-## Working Groups (WG)
+#### Technical Steering Committee
+##### Committee's
+##### Birds of Feather
+#### Working Groups (WG)
 * Working Groups (WGs) are [chartered]() by TSC to handle one or more work items.
 * WGs MAY create Working Area Groups to address specific topics within their charter.
 
-# The Way We Work
-## Meetings
-* WGs are encouraged to schedule regular conference calls.
-* The Meetings MUST be announced at least 7 days in advance.
-* All the Organization members are contractually bound to the IPR policy under terms of the Membership Application and these IPR Guidelines must be followed.
-* Meetings SHALL have an IPR call where a reminder of the IPR policy and the duties and obligations of members is provided.
-* More details on the IPR disclosure policy is documented in the Organization IPR Procedural Guidelines [XXXIPR].
-
-## WG Officers
+### OMP Roles
+* [Members](#members)
+* [Editors](#editors)
+* [Chairs | Officers](#wg-chairs-officers)
+* [Maintainer(s)](#maintainers)
+#### Members
+#### Editors
+#### WG Chairs - Officers
 * In performing their tasks, officers SHALL maintain strict impartiality and act in the interest of the Organization.
 * Chairs MAY limit the amount of time allocated to a particular agenda item or discussion point.
 * Chairs SHALL, after a reasonable period of discussion time, use means to quickly reach a decision including (but not limited to):
@@ -37,14 +37,23 @@
  * formal voting, see Formal voting.
  * Chairs MAY require that new information be provided about an issue before earlier decisions can be reopened/revisited.
  * The work and progress of the group is appropriately communicated through regular status reports to the TSC.
+ * The chair MAY delegate tasks to the vice-chair, including chairing the group as and when necessary.
  
  A list of the current tasks associated with the chairs responsibilities is to be found [TBD]().
- 
- * The chair MAY delegate tasks to the vice-chair, including chairing the group as and when necessary.
 
-### Elections of Officers
+##### Elections of Officers
 
-## Technical Decision Making
+#### Maitainers
+
+## The Way We Work
+### Meetings
+* WGs are encouraged to schedule regular conference calls.
+* The Meetings MUST be announced at least 7 days in advance.
+* All the Organization members are contractually bound to the IPR policy under terms of the Membership Application and these IPR Guidelines must be followed.
+* Meetings SHALL have an IPR call where a reminder of the IPR policy and the duties and obligations of members is provided.
+* More details on the IPR disclosure policy is documented in the Organization IPR Procedural Guidelines [XXXIPR].
+
+### Technical Decision Making
 As part of their responsibilities defined in [WG Officers](), officers need to ensure efficient and effective decision-making. The decision making process in WGs is intended to be as inclusive as possible. WGs shall attempt to use consensus to make decisions. If consensus cannot be reached, voting mechanisms may be used. 
 * Formal notice SHALL be given for decision making, e.g.:
  * Inclusion of a document on an agenda, proposing a specific decision to be taken (e.g. Change|Pull Request)
@@ -55,14 +64,14 @@ As part of their responsibilities defined in [WG Officers](), officers need to e
  > The above list is not exhaustive.
 * There SHALL be no distinction in the decision-making merit of real-time or non-real-time meetings.
 
-### Seeking Consensus
+#### Seeking Consensus
 * Groups shall endeavour to reach consensus on all decisions. 
 * Informal methods of reaching consensus are encouraged (e.g. a show of hands).
 * Groups SHOULD attempt to ensure contributions relating to the same subject matter are considered together before being disposed. 
 * However the chair SHALL ensure that progress is not delayed by unavailable contributions or participants.
 * Agreement SHALL be sought in all forms of meeting.
 
-#### Handling objections when seeking consensus
+##### Handling objections when seeking consensus
 * Objections from a small minority SHOULD be minuted and the objecting delegates SHOULD be questioned if having their objections minuted is sufficient and they agree to not sustain their objections. 
   * If such agreements are secured, then there is consensus for approving the proposal. 
   * If such agreements are not secured, then the proposal is not agreed and further action SHALL be taken (e.g. the proposal is withdrawn, updated, or voted on). 
@@ -79,7 +88,7 @@ As part of their responsibilities defined in [WG Officers](), officers need to e
   * using Review and Approval, also called Decision Making process
 * Proposals SHALL be available for a given period.
 
-### Using voting to achieve agreement 
+#### Using voting to achieve agreement 
 
 <table>
   <caption>Summary overview of Voting Procedures</caption>
@@ -101,7 +110,7 @@ As part of their responsibilities defined in [WG Officers](), officers need to e
   </tbody>
 </table>
 
-#### Phrasing of Voting Questions
+##### Phrasing of Voting Questions
 * The chair ensures that questions to be voted upon SHALL be phrased in a concise and unambiguous manner. 
 * Questions SHOULD NOT be phrased as the “The group SHALL not do xyz”. Examples of appropriate questions are:
   * SHALL the group agree the Specification?
@@ -113,7 +122,7 @@ As part of their responsibilities defined in [WG Officers](), officers need to e
 * The option receiving the highest number of votes SHALL be the decision of the group.
 * If the issue is to choose between three or more options, the group SHOULD use informal voting to reduce the number of options to two, and then use formal voting, if necessary.
 
-### Voting on Technical Issues
+##### Voting on Technical Issues
 This section provides a summary of the voting procedures defined in section [Using voting to achieve agreement]().
 
 
@@ -193,10 +202,10 @@ In this section the diagram below depictures the development phases of technical
 	    <td><strong>Technical Development</strong></td>
       <td>A Technical Specification MAY be composed of one or more documents:
         <ul>
-          <li><strong>Requirements Document</strong>, [RD]()</li>
-          <li><strong>Architecture Document</strong>, [AD]()</li>
-          <li><strong>Technical Specification Document(s)</strong>, [TS]()</li>
-          <li><strong>Supporting Document(s)</strong>, [SUP]()</li>
+          <li><strong>Requirements Document</strong>, (RD)</li>
+          <li><strong>Architecture Document</strong>, (AD</li>
+          <li><strong>Technical Specification Document(s)</strong>, (TS)</li>
+          <li><strong>Supporting Document(s)</strong>, (SUP)</li>
         </ul>
         <strong>Note:</strong> in some cases the group MAY agree to develop a single document that contains the above list as sections.</br>
         The first document to be developed is the <strong>Requirements Document</strong>,[RD](). It contains the business requirements (not technical requiremnts). The busisness requirements are derived from the Use Cases described in the <strong>RD</strong> document.</br>
@@ -248,19 +257,19 @@ In this section the diagram below depictures the development phases of technical
   </thead>
   <tbody>
     <tr>
-	    <td>"Rel vX.Y.Z"</td>
+	    <td><i>Rel vX.Y.Z"</i></td>
       <td>Release-tag's contain all the different versions of the Technical Specifications that have been approved by the Working Group and ratified by the Technical Steering Committee. The name of the release tag will follow Semantic versioning principles.</td>
    </tr>
     <tr>
-	    <td>"master"</td>
+	    <td><i>master</i></td>
       <td>This branch contains the latest version of the Technical Specfication approved by the Working Group and ratified by the Technical Steering Committee. Its content will be moved into a release-tag, to perserve the content of the version.</td>
    </tr>
    <tr>
-	    <td>"staging"</td>
+	    <td><i>staging</i></td>
 	    <td>This branch contains a draft specification that are stable, approved by the Working Group but still under development. This branch SHALL NOT contain any feature that is not part of the delivery plan.</td>
    </tr>
    <tr>
-	    <td>"feature-branch-x"</td>
+	    <td><i>feature-branch-x</i></td>
 	    <td>Feature branches are dedicated to develop specific features, concepts, sections, etc. These branches are not stable, content is developed here until it is stable and completed. At that point it can be merged into the "staging" branch. </td>
    </tr>
   </tbody>
@@ -271,9 +280,18 @@ In this section the diagram below depictures the development phases of technical
 	<figcaption>OMP GitHub Flow</figcaption>
 </figure>
 
-## Documentation
-* [Charter]()
+## Reference Material
+### Documents
+* [Charters]()
 * [Dictionary]()
+* [Templates]()
+* [Publication]()
 
-# Collaboration Tools
+### Collaboration Tools
+* [MS Teams]()
+### How to Guidelines
+### GitHub
+* [Issue Creation]()
+* [Creation Pull Request]()
+
 
