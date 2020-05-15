@@ -81,6 +81,18 @@
 ##### Committee's
 ##### Birds of Feather
 #### Working Groups (WG)
+
+Note:
+
+```
+Project Charter - 5. Deliverable Development Process
+
+5.1.	Working Groups. The Project may have multiple Working Groups, and each Working Group will operate as set forth in this Section and its Working Group Charter.
+5.2.	Working Group Chair. Each Working Group will designate a chair for that Working Group. A Working Group may select a new chair upon Approval of the Working Group Participants.
+5.3.	Working Group Requirements. Each Working Group must be comprised of at least 2 Working Group Participants. No Working Group Participant will be permitted to participate in a Working Group without first Joining the Working Group.
+
+```
+
 * Working Groups (WGs) are [chartered]() by TSC to handle one or more work items.
 * WGs MAY create Working Area Groups to address specific topics within their charter.
 
