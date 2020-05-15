@@ -119,6 +119,16 @@
 * More details on the IPR disclosure policy is documented in the Organization IPR Procedural Guidelines [XXXIPR].
 
 ### Technical Decision Making
+
+Note:
+```
+Project Charter - 4. Decision Making
+
+4.1.Consensus/Voting/Approval. The Steering Committee and each Working Group will endeavor to make all decisions by consensus. Where the Steering Committee or Working Group cannot reach consensus with respect to a particular decision, the Steering Committee or Working Group will make that decision by a Supermajority Vote of the Steering Members or Working Group Participants, as applicable.
+
+4.2.Notifications and Electronic Voting. The Executive Director is responsible for issuing all notifications of meetings and votes of the Steering Members and each Working Group chair is responsible for issuing all notifications of meetings and votes of the Working Group for which it is the chair, in each case subject to the following minimum criteria: (i) in-person meetings require at least 30 days prior written notice, (ii) teleconference meetings require at least 7 days prior written notice (this requirement only applies to the notification of the first meeting of automatically recurring teleconference meetings), (iii) electronic votes require no advance notice but must be made pursuant to a clear and unambiguous ballot with only “yes” and “no” options, and the voting must remain open for no less than 7 days. These notification requirements with respect to the Project or that particular Working Group may be overridden upon unanimous consent of all Steering Members or all applicable Working Group Participants that have attended and participated in at least 50% of the last 4 meetings of the Project or Particular Working Group.
+```
+
 As part of their responsibilities defined in [WG Officers](), officers need to ensure efficient and effective decision-making. The decision making process in WGs is intended to be as inclusive as possible. WGs shall attempt to use consensus to make decisions. If consensus cannot be reached, voting mechanisms may be used. 
 * Formal notice SHALL be given for decision making, e.g.:
  * Inclusion of a document on an agenda, proposing a specific decision to be taken (e.g. Change|Pull Request)
