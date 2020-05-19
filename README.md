@@ -96,6 +96,28 @@ Project Charter - 5. Deliverable Development Process
 * Working Groups (WGs) are [chartered]() by TSC to handle one or more work items.
 * WGs MAY create Working Area Groups to address specific topics within their charter.
 
+### Work Units
+
+<figure>
+	<img src="images/omp-breakdown.svg" alt="OMP Work Units">
+	<figcaption>OMP Work Units</figcaption>
+</figure>
+
+#### Membership Application
+
+#### Project Charter
+
+#### Working Group Charter
+
+##### Work Item
+- [] The Work Item (WI) SHALL describe the scope and expected deliverables and SHALL require WG approval
+- [] WIs are the means by which release packages (version x.y) are defined
+
+##### Epics
+- [] It could be a feature, customer request or business requirement
+- [] It is recommendable to define a list of Epics that will be formed the release package for the corresponding Work Item
+- [] The WG SHOULD define a placeholder for each Epic with few lines of description
+
 ### OMP Roles
 * [Members](#members)
 * [Editors](#editors)
