@@ -1,5 +1,5 @@
 ## Working Group Chair - Check List
-### General Roles of Officers:
+### General Roles of Officers
 
 - [ ] The chair has overall responsibility for the management of the group
 - [ ] Vice Chairs can provide full cover for the Chair - the intent being continuity of leadership to the group
@@ -9,7 +9,7 @@
 (e.g. a leadership mailing list)
 - [ ] Chair needs to drive the vice-chairs' support
 
-### General Responsibilities:
+### General Responsibilities
 
 - [ ] Read, understand and follow the OMP processes as defined in the OMP Rules of Engagement, and ensure that all rules are 
 followed. Where there is doubt, seek advice from the parent group chair or ORG Teams Officers as appropriate.
@@ -38,7 +38,7 @@ member if they wish to express any concerns in private
 - [ ] Monitor your GitHub issues for requests to respond to questions from the public and provide responses.
 - [ ] The chair will manage the creation, regular maintenance and obsolescence of their group's charter.
 
-### Meeting Responsibilities:
+### Meeting Responsibilities
 
 - [ ] Moderate the meeting to ensure the work within the group progresses in a timely manner. 
 When issues are raised within the meeting that the chair considers editorial and that may result in lengthy discussions, 
@@ -55,8 +55,7 @@ Where there is doubt, seek advice from the parent group chair or ORG Officers as
 problem of the start time setting fairness from geographical perspective.
 - [ ] Issue meeting agendas to fulfil the groups charter and assigned work items to the portal prior to group meetings in a timely 
 manner as defined in the process document
-- [ ] Monitor the discussion and activity of the group and facilitate to ensure that decisions are reached through consensus in a 
-timely manner
+- [ ] Monitor the discussion and activity of the group and facilitate to ensure that decisions are reached through consensus in a timely manner
 - [ ] Monitor the discussion and activity of the group to ensure that no anti-trust violations occur
 - [ ] Remind members regarding IPR and anti-trust at the beginning of each meeting
 - [ ] Ensure that meeting minutes are written, reviewed and published for all group business
@@ -66,7 +65,7 @@ the working group who will handle these duties if the chair cannot be present, e
 - [ ] Ensure that group portal is kept up to date in a timely fashion
 - [ ] Manage the Specification Development Process (above and beyond those listed above):
 
-### Administrative Aspects:
+### Administrative Aspects
 
 - [ ] Ensure the technical activities of the group are progressed in a timely manner in accordance with the processes and 
 procedures of OMP.
@@ -76,7 +75,7 @@ from the parent group chair or ORG Officers as appropriate.
 - [ ] Ensure the WISPRs are up to date with all intended documents, schedules, etc., and submitted by the required dates.
 
 
-### - Technical Aspects:
+### Technical Aspects
 
 - [ ] Complete all reviews (Requirements, Architecture and Consistency) and address all issues raised in a timely manner.
 - [ ] Conduct a full specification dependency analysis, and document the results in the specification and ensure 
