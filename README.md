@@ -96,14 +96,14 @@ Project Charter - 5. Deliverable Development Process
 * Working Groups (WGs) are [chartered]() by TSC to handle one or more work items.
 * WGs MAY create Working Area Groups to address specific topics within their charter.
 
-### OMP Roles
-* [Members](#members)
-* [Editors](#editors)
-* [Chairs | Officers](#wg-chairs-officers)
-* [Maintainer(s)](#maintainers)
-#### Members
-#### Editors
-#### WG Chairs Officers
+### What to Expect from OMP Roles
+* [from Members](#from-members)
+* [from Editors](#from-editors)
+* [from Chairs | Officers](#from-wg-chairs-officers)
+* [from Maintainer(s)](#from-maintainers)
+#### from Members
+#### from Editors
+#### from WG Chairs Officers
 * In performing their tasks, officers SHALL maintain strict impartiality and act in the interest of the Organization.
 * Chairs MAY limit the amount of time allocated to a particular agenda item or discussion point.
 * Chairs SHALL, after a reasonable period of discussion time, use means to quickly reach a decision including (but not limited to):
@@ -120,7 +120,7 @@ Project Charter - 5. Deliverable Development Process
 
 ##### Elections of Officers
 
-#### Maintainers
+#### from Maintainers
 
 ## The Way We Work
 ### Meetings
