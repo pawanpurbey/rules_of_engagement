@@ -93,7 +93,7 @@ Project Charter - 5. Deliverable Development Process
 
 ```
 
-* Working Groups (WGs) are [chartered]() by TSC to handle one or more work items.
+* Working Groups (WGs) are [chartered]() by TSC to handle one or more work packages.
 * WGs MAY create Working Area Groups to address specific topics within their charter.
 
 ### Work Units
@@ -109,13 +109,13 @@ Project Charter - 5. Deliverable Development Process
 
 #### Working Group Charter
 
-##### Work Item
-- [ ] The Work Item (WI) SHALL describe the scope and expected deliverables and SHALL require WG approval
+##### Work Package
+- [ ] The Work Package (WP) SHALL describe the scope and expected deliverables and SHALL require WG approval
 - [ ] WIs are the means by which release packages (version x.y) are defined
 
 ##### Epics
 - [ ] It could be a feature, customer request or business requirement
-- [ ] It is recommendable to define a list of Epics that will be formed the release package for the corresponding Work Item
+- [ ] It is recommendable to define a list of Epics that will be formed the release package for the corresponding Work Package
 - [ ] The WG SHOULD define a placeholder for each Epic with few lines of description
 
 ### OMP Roles
@@ -224,8 +224,8 @@ As part of their responsibilities defined in [WG Officers](), officers need to e
 * Questions SHOULD NOT be phrased as the “The group SHALL not do xyz”. Examples of appropriate questions are:
   * SHALL the group agree the Specification?
   * SHALL the liaison be approved?
-  * SHALL the new Work Item be approved?
-  * SHALL the existing Work Item be stopped?
+  * SHALL the new Work Package be approved?
+  * SHALL the existing Work Package be stopped?
   * If the issue is to choose between two options (i.e. A or B), an example of the appropriate question may be:
   * SHALL the group agree Option A or Option B?
 * The option receiving the highest number of votes SHALL be the decision of the group.
@@ -315,11 +315,11 @@ In this section the diagram below depictures the development phases of technical
   </thead>
   <tbody>
     <tr>
-	    <td><strong>Work Item</strong></td>
-      <td>In this phase the group agrees the scope of the work to be developed. [Work Item template]()</br>
-          Any member can provide a new Work Item proposal, the document is discussed among the group and further elaborated.
-          The group will vote whether the Work Item is formally approved and endorsed by the majority of the group or rejected.</br>
-          If the proposal is approved, the Work Item is moved to the next phase, <strong>Technical Development</strong>. </td>
+	    <td><strong>Work Package</strong></td>
+      <td>In this phase the group agrees the scope of the work to be developed. [Work Package template]()</br>
+          Any member can provide a new Work Package proposal, the document is discussed among the group and further elaborated.
+          The group will vote whether the Work Package is formally approved and endorsed by the majority of the group or rejected.</br>
+          If the proposal is approved, the Work Package is moved to the next phase, <strong>Technical Development</strong>. </td>
     </tr>
     <tr>
 	    <td><strong>Technical Development</strong></td>
