@@ -107,28 +107,26 @@ Project Charter - 5. Deliverable Development Process
 * In performing their tasks, officers SHALL maintain strict impartiality and act in the interest of the Organization.
 * Chairs MAY limit the amount of time allocated to a particular agenda item or discussion point.
 * Chairs SHALL, after a reasonable period of discussion time, use means to quickly reach a decision including (but not limited to):
- * a statement of the Chair’s view of group consensus, which shall be accepted by the group if there are no objections
- * assignment of action items to progress the issue in a short a time period as possible
- * invite single or few objectors to no longer sustain their objections
- * informal voting, see Informal voting.
- * formal voting, see Formal voting.
- * Chairs MAY require that new information be provided about an issue before earlier decisions can be reopened/revisited.
- * The work and progress of the group is appropriately communicated through regular status reports to the TSC.
- * The chair MAY delegate tasks to the vice-chair, including chairing the group as and when necessary.
+  * a statement of the Chair’s view of group consensus, which shall be accepted by the group if there are no objections.
+  * assignment of action items to progress the issue in a short a time period as possible.
+  * invite single or few objectors to no longer sustain their objections.
+  * informal voting.
+  * formal voting.
+* Chairs MAY require that new information be provided about an issue before earlier decisions can be reopened/revisited.
+* The work and progress of the group is appropriately communicated through regular status reports to the TSC.
+* The chair MAY delegate tasks to the vice-chair, including chairing the group as and when necessary.
  
- A list of the current tasks associated with the chairs responsibilities is to be found [TBD]().
-
-##### Elections of Officers
+ A list of the current tasks associated with the chairs responsibilities is to be found [Chair Check List]().
 
 #### from Maintainers
 
+##### Elections of Officers
 ## The Way We Work
 ### Meetings
 * WGs are encouraged to schedule regular conference calls.
 * The Meetings MUST be announced at least 7 days in advance.
 * All the Organization members are contractually bound to the IPR policy under terms of the Membership Application and these IPR Guidelines must be followed.
 * Meetings SHALL have an IPR call where a reminder of the IPR policy and the duties and obligations of members is provided.
-* More details on the IPR disclosure policy is documented in the Organization IPR Procedural Guidelines [XXXIPR].
 
 ### Technical Decision Making
 
@@ -140,13 +138,16 @@ Project Charter - 4. Decision Making
 4.2. Notifications and Electronic Voting. The Executive Director is responsible for issuing all notifications of meetings and votes of the Steering Members and each Working Group chair is responsible for issuing all notifications of meetings and votes of the Working Group for which it is the chair, in each case subject to the following minimum criteria: (i) in-person meetings require at least 30 days prior written notice, (ii) teleconference meetings require at least 7 days prior written notice (this requirement only applies to the notification of the first meeting of automatically recurring teleconference meetings), (iii) electronic votes require no advance notice but must be made pursuant to a clear and unambiguous ballot with only “yes” and “no” options, and the voting must remain open for no less than 7 days. These notification requirements with respect to the Project or that particular Working Group may be overridden upon unanimous consent of all Steering Members or all applicable Working Group Participants that have attended and participated in at least 50% of the last 4 meetings of the Project or Particular Working Group.
 ```
 
-As part of their responsibilities defined in [WG Officers](), officers need to ensure efficient and effective decision-making. The decision making process in WGs is intended to be as inclusive as possible. WGs shall attempt to use consensus to make decisions. If consensus cannot be reached, voting mechanisms may be used. 
+As part of their responsibilities defined in [from WG Chairs Officers](), officers need to ensure efficient and effective decision-making. 
+* The decision making process in WGs is intended to be as inclusive as possible. 
+* WGs shall attempt to use consensus to make decisions. 
+* If consensus cannot be reached, voting mechanisms MAY be used. 
 * Formal notice SHALL be given for decision making, e.g.:
- * Inclusion of a document on an agenda, proposing a specific decision to be taken (e.g. Change|Pull Request)
- * Inclusion of an item directly in the agenda (e.g. proposed next meeting date)
- * Items proposed for approval via the group mailing list (e.g. agreement a document revision)
- * Inclusion of a document for decision in an electronic Review, Comment and Approval event
- * Inclusion of a document for decision in an e-vote event 
+  * Inclusion of a document on an agenda, proposing a specific decision to be taken (e.g. Pull Request).
+  * Inclusion of an item directly in the agenda (e.g. proposed next meeting date).
+  * Items proposed for approval via the group mailing list (e.g. agreement a document revision).
+  * Inclusion of a document for decision in an electronic Review, Comment and Approval event
+  * Inclusion of a document for decision in an e-vote event.
  > The above list is not exhaustive.
 * There SHALL be no distinction in the decision-making merit of real-time or non-real-time meetings.
 
@@ -157,21 +158,22 @@ As part of their responsibilities defined in [WG Officers](), officers need to e
 * However the chair SHALL ensure that progress is not delayed by unavailable contributions or participants.
 * Agreement SHALL be sought in all forms of meeting.
 
-##### Handling objections when seeking consensus
+#### Handling objections when seeking consensus
 * Objections from a small minority SHOULD be minuted and the objecting delegates SHOULD be questioned if having their objections minuted is sufficient and they agree to not sustain their objections. 
   * If such agreements are secured, then there is consensus for approving the proposal. 
   * If such agreements are not secured, then the proposal is not agreed and further action SHALL be taken (e.g. the proposal is withdrawn, updated, or voted on). 
   * Members are discouraged from sustaining their objections when it is clear that they would be overruled by a vote were one to take place.
-* In real-time meetings, consensus can be determined by receiving no sustained objections to a proposal. Efforts to immediately resolve or record objections can be taken to attempt to achieve consensus.
+* In real-time meetings, consensus can be determined by receiving no sustained objections to a proposal.
+  * Efforts to immediately resolve or record objections can be taken to attempt to achieve consensus.
 * Where attendance is sparse when viewed from normal participation levels, potentially controversial proposals SHOULD be made available to the broader membership. 
 * The chair is responsible for ensuring such opportunity for participation in the decision making process. 
 * Sparsely attended meetings SHOULD NOT be used to drive through proposals that would not have broad support.
 * Following a decision-making meeting, a summary of decisions and document dispositions SHALL be published as soon as is practical. 
-* This will be addressed if the meeting minutes are available in a timely fashion.
+  * This will be addressed if the meeting minutes are available in a timely fashion.
 * When there is insufficient time for review in a real-time meeting, non-real-time consensus approaches SHOULD be considered.  
-* In non-real time meetings consensus SHOULD be developed by using Review, Comment and Agreement periods, e.g.:
+* In non-real time meetings consensus SHOULD be developed by using "Review & Agreement" periods, e.g.:
   * Using the group mailing list
-  * using Review and Approval, also called Decision Making process
+  * Using GitHub "Review and Approval" label
 * Proposals SHALL be available for a given period.
 
 #### Using voting to achieve agreement 
