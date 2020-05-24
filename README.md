@@ -317,8 +317,8 @@ In this section the diagram below depictures the development phases of technical
 
 ## Reference Material
 ### Documents
-* [Charters]()
-* [Dictionary]()
+* [Charters](https://github.com/OpenManufacturingPlatform/charters)
+* [Dictionary](https://github.com/OpenManufacturingPlatform/dictionary)
 * [Templates](https://github.com/OpenManufacturingPlatform/templates)
 * [Publication]()
 
