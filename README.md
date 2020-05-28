@@ -93,7 +93,7 @@ Project Charter - 5. Deliverable Development Process
 
 ```
 
-* Working Groups (WGs) are [chartered]() by TSC to handle one or more work items.
+* Working Groups (WGs) are [chartered]() by the Steering Committee to handle one or more work items.
 * WGs MAY create Working Area Groups to address specific topics within their charter.
 
 ### What to Expect from OMP Roles
