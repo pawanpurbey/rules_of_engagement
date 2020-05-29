@@ -2,7 +2,7 @@
 ### General Roles of Officers
 
 - [ ] The chair has overall responsibility for the management of the group
-- [ ] Vice Chairs can provide full cover for the Chair - the intent being continuity of leadership to the group
+- [ ] Co-chairs can provide full cover for the Chair - the intent being continuity of leadership to the group
 - [ ] Chairs and co-chairs are to behave as a single team generating the group's vision
 - [ ] Co-chairs provide the chair with a 2nd pair of eyes and ears to guage the meeting
 - [ ] Officers have to have visibility of all officers' communications to ensure transparency in the leadership 
