@@ -114,7 +114,7 @@ Project Charter - 5. Deliverable Development Process
   * formal voting.
 * Chairs MAY require that new information be provided about an issue before earlier decisions can be reopened/revisited.
 * The work and progress of the group is appropriately communicated through regular status reports to the TSC.
-* The chair MAY delegate tasks to the vice-chair, including chairing the group as and when necessary.
+* The chair MAY delegate tasks to the co-chair, including chairing the group as and when necessary.
  
  A list of the current tasks associated with the chairs responsibilities is to be found [Chair Check List]().
 
