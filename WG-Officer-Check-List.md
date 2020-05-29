@@ -3,11 +3,11 @@
 
 - [ ] The chair has overall responsibility for the management of the group
 - [ ] Vice Chairs can provide full cover for the Chair - the intent being continuity of leadership to the group
-- [ ] Chairs and vice-chairs are to behave as a single team generating the group's vision
-- [ ] Vice-chairs provide the chair with a 2nd pair of eyes and ears to guage the meeting
+- [ ] Chairs and co-chairs are to behave as a single team generating the group's vision
+- [ ] Co-chairs provide the chair with a 2nd pair of eyes and ears to guage the meeting
 - [ ] Officers have to have visibility of all officers' communications to ensure transparency in the leadership 
 (e.g. a leadership mailing list)
-- [ ] Chair needs to drive the vice-chairs' support
+- [ ] Chair needs to drive the co-chairs' support
 
 ### General Responsibilities
 
@@ -24,8 +24,8 @@ followed. Where there is doubt, seek advice from the parent group chair or ORG T
 - [ ] Support, promote and keep updated the work packages as appropriate.
 - [ ] Support the parent group with the responsibilities delegated. 
 - [ ] Conduct all group business in a fair, reasonable and open manner in accordance with the approved OMP processes and procedures. 
-- [ ] Chairs: Arrange for an agreed number of vice-chairs to support the chair in the group leadership; arrange the task assignment for the chairs and vice-chairs, delegate assigned tasks to, and supervise, the vice-chairs. 
-- [ ] Vice-chairs: Support the chair/convenor/interim chair in task assignment and execute delegated tasks and stand in for the chair as appropriate to fulfill the roles of the group. 
+- [ ] Chairs: Arrange for an agreed number of co-chairs to support the chair in the group leadership; arrange the task assignment for the chairs and co-chairs, delegate assigned tasks to, and supervise, the co-chairs. 
+- [ ] Co-chairs: Support the chair/convenor/interim chair in task assignment and execute delegated tasks and stand in for the chair as appropriate to fulfill the roles of the group. 
 - [ ] Internally structure the group as appropriate (e.g. create/modify/close sub-working groups, etc) to best fulfil the mandate. 
 - [ ] Conduct elections of and manage all sub-group officers consistent with officer election rules, and act as election officer in the strictest confidentiality. 
 - [ ] Regularly report group status and issues to the parent group, Steering Committee and members as required using the approved templates.
@@ -49,7 +49,7 @@ followed. Where there is doubt, seek advice from the parent group chair or ORG T
 - [ ] Monitor the discussion and activity of the group to ensure that no anti-trust violations occur.
 - [ ] Remind members regarding IPR and anti-trust at the beginning of each meeting.
 - [ ] Ensure that meeting minutes are written, reviewed and published after each meeting.
-- [ ] Prepare group status for the parent or Steering Committee meetings as required and ensure there is a representative from the working group who will handle these duties if the chair cannot be present, e.g. vice-chair.
+- [ ] Prepare group status for the parent or Steering Committee meetings as required and ensure there is a representative from the working group who will handle these duties if the chair cannot be present, e.g. co-chair.
 - [ ] Ensure that group GitHub repos is kept up to date in a timely fashion
 - [ ] Manage the Specification Development Process.
 
