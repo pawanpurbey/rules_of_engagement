@@ -26,7 +26,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="955"
+     inkscape:window-height="957"
      id="namedview150"
      showgrid="false"
      inkscape:zoom="1.1476306"
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -298,7 +298,7 @@
      height="80.433197"
      x="20.897903"
      y="335.84421"
-     style="fill:#00c7ff;fill-opacity:1;stroke:#000000;stroke-width:1.12608;stroke-miterlimit:4;stroke-dasharray:3.37823, 3.37823;stroke-dashoffset:0;stroke-opacity:1" />
+     style="fill:#00c7ff;fill-opacity:1;stroke:#000000;stroke-width:1.1265;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <rect
      id="rect148-5-7-9-7"
      width="192.42886"
@@ -329,35 +329,6 @@
        x="95.512169"
        y="372.64609"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.0139px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1.43803">Team</tspan></text>
-  <rect
-     id="rect148-5-7-6"
-     width="142.16383"
-     height="75.141556"
-     x="437.30685"
-     y="339.23053"
-     style="fill:#00c7ff;fill-opacity:1;stroke:#000000;stroke-width:1.12608;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:3.37823, 3.37823;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:23.5801px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f7fff7;fill-opacity:1;stroke:none;stroke-width:1.43803"
-     x="470.97974"
-     y="386.3913"
-     id="text4668-8-9-3-0"
-     transform="scale(1.0717049,0.93309269)"><tspan
-       sodipodi:role="line"
-       x="470.97974"
-       y="386.3913"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.3975px;line-height:0.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1.43803"
-       id="tspan5196-4-9">Birds of </tspan><tspan
-       sodipodi:role="line"
-       x="470.97974"
-       y="409.97141"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.3975px;line-height:0.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1.43803"
-       id="tspan6068">Feather</tspan><tspan
-       sodipodi:role="line"
-       x="470.97974"
-       y="433.55148"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.3975px;line-height:0.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1.43803"
-       id="tspan6070">(BoF)</tspan></text>
   <flowRoot
      xml:space="preserve"
      id="flowRoot6072"
@@ -445,13 +416,11 @@
        id="tspan7392-5"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.8522px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke-width:1.02055">Charter per WG </tspan></text>
   <path
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.50236;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 163.06174,376.18721 274.24511,0.48769"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.50000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 163.06174,376.18721 134.29635,0.48769"
      id="path6251"
      inkscape:connector-type="polyline"
-     inkscape:connector-curvature="0"
-     inkscape:connection-start="#rect148-5-7"
-     inkscape:connection-end="#rect148-5-7-6" />
+     inkscape:connector-curvature="0" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:400;font-size:27.1388px;line-height:0%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02368"
@@ -498,10 +467,10 @@
      d="m 298.91575,226.836 c 0.45307,373.06194 0.45307,373.06194 0.45307,373.06194"
      style="fill:none;stroke:#000000;stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   <rect
-     style="fill:#ceffce;fill-opacity:1;stroke-width:1.35175"
+     style="fill:#ceffce;fill-opacity:1;stroke-width:1.47327"
      y="600.18494"
      x="570.77197"
-     height="83.481216"
+     height="99.165703"
      width="192.42886"
      id="rect148-5-7-9-7-8" />
   <text
@@ -516,41 +485,35 @@
        y="670.73291"
        x="622.67096"
        sodipodi:role="line">Semantic Data </tspan><tspan
-       id="tspan6130-0"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.3976px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1.43803"
        y="694.31311"
+       x="622.67096"
+       sodipodi:role="line"
+       id="tspan970">Structuring </tspan><tspan
+       id="tspan6130-0"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.3976px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1.43803"
+       y="717.89331"
        x="622.67096"
        sodipodi:role="line">Working Group</tspan><tspan
        id="tspan6070-4-0"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.3976px;line-height:0;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1.43803"
-       y="717.89331"
+       y="741.47351"
        x="622.67096"
        sodipodi:role="line">(WG)</tspan></text>
   <text
      id="text4779-4-1-9"
      transform="scale(0.92256395,1.0839357)"
-     y="657.79321"
+     y="668.86401"
      x="641.64185"
      style="font-style:normal;font-variant:normal;font-weight:400;font-size:27.1388px;line-height:0%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02368"
      xml:space="preserve"><tspan
        id="tspan4781-6-3-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.7575px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:1.02368"
-       y="657.79321"
+       y="668.86401"
        x="641.64185">WG Chair/ Vice-Chair</tspan></text>
   <path
      inkscape:connector-curvature="0"
      id="path4660-1-6"
      d="M 528.31427,699.44545 Z"
      style="fill:none;stroke:#000000;stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-  <text
-     id="text4779-4-8"
-     transform="scale(0.92256395,1.0839357)"
-     y="407.93158"
-     x="496.34644"
-     style="font-style:normal;font-variant:normal;font-weight:400;font-size:23.0417px;line-height:0%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02368"
-     xml:space="preserve"><tspan
-       id="tspan4781-6-61"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.7575px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:1.02368"
-       y="407.93158"
-       x="496.34644">BoF Convener</tspan></text>
 </svg>
