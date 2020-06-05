@@ -6,7 +6,7 @@
 </figure>
 
 <table>
-  <caption>OMP Overivew</caption>
+  <caption>OMP Overview</caption>
   <thead>
     <tr>
 	    <th>Category</th>
