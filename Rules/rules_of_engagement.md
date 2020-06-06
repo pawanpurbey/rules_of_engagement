@@ -1,4 +1,3 @@
-# Rules of Engagement
 ## OMP Tools - Processes - People
 <figure>
 	<img src="images/omp-overview.svg" alt="OMP Overview">
