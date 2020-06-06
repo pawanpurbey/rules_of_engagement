@@ -110,13 +110,14 @@ Project Charter - 5. Deliverable Development Process
 #### Working Group Charter
 
 ##### Work Package
-- [ ] The Work Package (WP) SHALL describe the scope and expected deliverables and SHALL require WG approval
-- [ ] WIs are the means by which release packages (version x.y) are defined
+* The Work Package (WP) SHALL describe the scope and expected deliverables and SHALL require WG approval
+* WIs are the means by which release packages (version x.y) are defined
 
 ##### Epics
-- [ ] It could be a feature, customer request or business requirement
-- [ ] It is recommendable to define a list of Epics that will be formed the release package for the corresponding Work Package
-- [ ] The WG SHOULD define a placeholder for each Epic with few lines of description
+* It could be a feature, customer request or business requirement
+* It is recommendable to define a list of Epics that will be formed the release package for the corresponding Work Package
+* The WG SHOULD define a placeholder for each Epic with few lines of description
+* The Epics can be broken down in user stories and tasks which are not defined in detail at the creation of the Work Package
 
 ### OMP Roles
 * [Members](#members)
