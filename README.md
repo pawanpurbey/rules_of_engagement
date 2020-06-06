@@ -93,9 +93,10 @@ Note:
 Project Charter - 3.1 Steering Committee
 The Steering Committee is the body that is responsible for governing the Project.
 ```
+#### Organization Team
 
-##### Committee's
-##### Birds of Feather
+#### Marketing Team 
+
 #### Working Groups (WG)
 
 Note:
@@ -109,42 +110,36 @@ Project Charter - 5. Deliverable Development Process
 
 ```
 
-
 * Working Groups (WGs) are [chartered]() by TSC to handle one or more work packages.
 * WGs MAY create Working Area Groups to address specific topics within their charter.
 
-### Work Units
+## Work Units
 
 <figure>
 	<img src="images/omp-breakdown.svg" alt="OMP Work Units">
 	<figcaption>OMP Work Units</figcaption>
 </figure>
 
-#### Membership Application
 
-#### Project Charter
-
-#### Working Group Charter
-
-##### Work Package
+### Work Package
 * The Work Package (WP) SHALL describe the scope and expected deliverables and SHALL require WG approval
 * WIs are the means by which release packages (version x.y) are defined
 
-##### Epics
+#### Epics
 * It could be a feature, customer request or business requirement
 * It is recommendable to define a list of Epics that will be formed the release package for the corresponding Work Package
 * The WG SHOULD define a placeholder for each Epic with few lines of description
 * The Epics can be broken down in user stories and tasks which are not defined in detail at the creation of the Work Package
 
-### What to Expect from OMP Roles
+## What to Expect from OMP Roles
 * [from Members](#from-members)
 * [from Editors](#from-editors)
 * [from Chairs | Officers](#from-wg-chairs-officers)
 * [from Maintainer(s)](#from-maintainers)
 
-#### from Members
-#### from Editors
-#### from WG Chairs Officers
+### From Members
+### From Editors
+### From WG Chairs Officers
 
 * In performing their tasks, officers SHALL maintain strict impartiality and act in the interest of the Organization.
 * Chairs MAY limit the amount of time allocated to a particular agenda item or discussion point.
@@ -160,10 +155,12 @@ Project Charter - 5. Deliverable Development Process
  
  A list of the current tasks associated with the chairs responsibilities is to be found [Chair Check List]().
 
-#### from Maintainers
+### From Maintainers
 
-##### Elections of Officers
+## Officers Election
+
 ## The Way We Work
+
 ### Meetings
 * WGs are encouraged to schedule regular conference calls.
 * The Meetings MUST be announced at least 7 days in advance.
@@ -218,8 +215,8 @@ As part of their responsibilities defined in [from WG Chairs Officers](), office
   * Using GitHub "Review and Approval" label
 * Proposals SHALL be available for a given period.
 
-#### Using voting to achieve agreement 
-##### Phrasing of Voting Questions
+### Using voting to achieve agreement 
+#### Phrasing of Voting Questions
 * The chair ensures that questions to be voted upon SHALL be phrased in a concise and unambiguous manner. 
 * Questions SHOULD NOT be phrased as the “The group SHALL not do xyz”. Examples of appropriate questions are:
   * SHALL the group agree the Specification?
@@ -231,7 +228,7 @@ As part of their responsibilities defined in [from WG Chairs Officers](), office
 * The option receiving the highest number of votes SHALL be the decision of the group.
 * If the issue is to choose between three or more options, the group SHOULD use informal voting to reduce the number of options to two, and then use formal voting, if necessary.
 
-##### Voting on Technical Issues
+#### Voting on Technical Issues
 
 *	Before voting, a clear definition of the issues SHALL be provided by the chair.
 * Members eligible to vote, SHALL only be entitled to one vote each.
