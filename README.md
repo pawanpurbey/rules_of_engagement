@@ -93,17 +93,43 @@ Project Charter - 5. Deliverable Development Process
 
 ```
 
-* Working Groups (WGs) are [chartered]() by the Steering Committee to handle one or more work items.
+
+* Working Groups (WGs) are [chartered]() by TSC to handle one or more work packages.
 * WGs MAY create Working Area Groups to address specific topics within their charter.
+
+### Work Units
+
+<figure>
+	<img src="images/omp-breakdown.svg" alt="OMP Work Units">
+	<figcaption>OMP Work Units</figcaption>
+</figure>
+
+#### Membership Application
+
+#### Project Charter
+
+#### Working Group Charter
+
+##### Work Package
+* The Work Package (WP) SHALL describe the scope and expected deliverables and SHALL require WG approval
+* WIs are the means by which release packages (version x.y) are defined
+
+##### Epics
+* It could be a feature, customer request or business requirement
+* It is recommendable to define a list of Epics that will be formed the release package for the corresponding Work Package
+* The WG SHOULD define a placeholder for each Epic with few lines of description
+* The Epics can be broken down in user stories and tasks which are not defined in detail at the creation of the Work Package
 
 ### What to Expect from OMP Roles
 * [from Members](#from-members)
 * [from Editors](#from-editors)
 * [from Chairs | Officers](#from-wg-chairs-officers)
 * [from Maintainer(s)](#from-maintainers)
+
 #### from Members
 #### from Editors
 #### from WG Chairs Officers
+
 * In performing their tasks, officers SHALL maintain strict impartiality and act in the interest of the Organization.
 * Chairs MAY limit the amount of time allocated to a particular agenda item or discussion point.
 * Chairs SHALL, after a reasonable period of discussion time, use means to quickly reach a decision including (but not limited to):
