@@ -1,5 +1,148 @@
 ## Scope
 
+## Terminology and Conventions
+
+### Conventions
+The keywords “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT”, “SHOULD”, “SHOULD NOT”, “RECOMMENDED”, “MAY”, and “OPTIONAL” in this document are to be interpreted as described in [RFC2119].
+
+### Definitions
+
+<table>
+  <caption>Definitions</caption>
+  <tbody>
+     <tr>
+	<td><strong>Working Group Co-Chair</strong></td>
+	<td></td>
+    </tr>
+    <tr>
+	<td><strong>CommitteeTeam</strong></td>
+	<td>A group chartered by the Steering Committee to perform specific support tasks</td>
+    </tr>
+    <tr>
+	<td><strong>Editor(s)</strong></td>
+	<td></td>
+    </tr>	  
+    <tr>
+	<td><strong>Epics</strong></td>
+	<td></td>
+    </tr>
+    <tr>
+	<td><strong>e-Vote</strong></td>
+	<td></td>
+    </tr>
+    <tr>
+	<td><strong>Issue(s)</strong></td>
+	<td></td>
+    </tr>	  
+    <tr>
+	<td><strong>Maintainer</strong></td>
+	<td></td>
+    </tr>
+    <tr>
+	<td><strong>Member(s)</strong></td>
+	<td></td>
+    </tr>	  
+    <tr>
+	<td><strong>Membership Application</strong></td>
+	<td></td>
+    </tr>
+    <tr>
+	<td><strong>Officer</strong></td>
+	<td></td>
+    </tr>	  
+    <tr>
+	<td><strong>Project Charter</strong></td>
+	<td></td>
+    </tr>
+    <tr>
+	<td><strong>Pull Request</strong></td>
+	<td></td>
+    </tr>
+    <tr>
+	<td><strong>Release</strong></td>
+	<td></td>
+    </tr>	  
+    <tr>
+	<td><strong>Review & Approval</strong></td>
+	<td></td>
+    </tr>
+    <tr>
+	<td><strong>Semantic Versioning</strong></td>
+	<td></td>
+    </tr>	  
+    <tr>
+	<td><strong>Specification(s)</strong></td>
+	<td></td>
+    </tr>	  
+    <tr>
+	<td><strong>Steering Committee</strong></td>
+	<td></td>
+    </tr>
+    <tr>
+	<td><strong>Working Group</strong></td>
+	<td></td>
+    </tr>
+    <tr>
+	<td><strong>Working Group Chair</strong></td>
+	<td></td>
+    </tr>	  
+    <tr>
+	<td><strong>Working Group Charter</strong></td>
+	<td></td>
+    </tr>
+    <tr>
+	<td><strong>Work Package</strong></td>
+	<td></td>
+    </tr>	  
+  </tbody>
+</table>
+
+Kindly consult [OMP Dictionary](https://github.com/OpenManufacturingPlatform/dictionary/tree/master) for more definitions used in this document.
+
+### Abbreviations
+
+<table>
+<caption>Definitions</caption>
+<tbody>
+  <tr>
+    <td>AD</td>
+    <td>Architecture Document</td>
+  </tr>	
+  <tr>
+    <td>IPR</td>
+    <td>Intelectual Property Rights</td>
+  </tr>	
+  <tr>
+    <td>WG</td>
+    <td>Working Group</td>
+  </tr>
+  <tr>
+    <td>PR</td>
+    <td>Pull Request</td>
+  </tr>	
+  <tr>
+    <td>REQ</td>
+    <td>Requirements</td>
+  </tr>		
+  <tr>
+    <td>RD</td>
+    <td>Requirement Document</td>
+  </tr>	
+  <tr>
+    <td>SC</td>
+    <td>Steering Committee</td>
+  </tr>
+  <tr>
+    <td>SUP</td>
+    <td>Supporting Document</td>
+  </tr>	
+  <tr>
+    <td>TC</td>
+    <td>Technical Specification</td>
+  </tr>	
+</tbody>
+</table>
+
 ## Introduction
 
 ## OMP Tools - Processes - People
@@ -90,7 +233,7 @@ Project Charter - 2. Membership Levels
 	<figcaption>OMP Governance Structure</figcaption>
 </figure>
 
-#### Technical Steering Committee
+#### Steering Committee
 Note:
 ```
 Project Charter - 3.1 Steering Committee
@@ -113,8 +256,7 @@ Project Charter - 5. Deliverable Development Process
 
 ```
 
-* Working Groups (WGs) are [chartered]() by TSC to handle one or more work packages.
-* WGs MAY create Working Area Groups to address specific topics within their charter.
+* Working Groups (WGs) are [chartered]() by SC to handle one or more Work Packages.
 
 ## Work Units
 
@@ -153,7 +295,7 @@ Project Charter - 5. Deliverable Development Process
   * informal voting.
   * formal voting.
 * Chairs MAY require that new information be provided about an issue before earlier decisions can be reopened/revisited.
-* The work and progress of the group is appropriately communicated through regular status reports to the TSC.
+* The work and progress of the group is appropriately communicated through regular status reports to the SC.
 * The chair MAY delegate tasks to the co-chair, including chairing the group as and when necessary.
  
  A list of the current tasks associated with the chairs responsibilities is to be found [Chair Check List]().
