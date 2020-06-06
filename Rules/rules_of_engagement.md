@@ -535,7 +535,7 @@ In this section the diagram below depictures the development phases of technical
    </tr>
    <tr>
       <td>Maintainer</td>
-      <td><i>feature-branch-x</i> - Can read, clone, and push to this repository. They can also manage issues, pull requests, and some repository settings.</td>
+      <td><i>ADMIN</i> - Can read, clone, and push to this repository. They can also manage issues, pull requests, and some repository settings.</td>
    </tr>
   </tbody>
 </table>
