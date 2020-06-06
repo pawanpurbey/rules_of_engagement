@@ -480,7 +480,7 @@ In this section the diagram below depictures the development phases of technical
   </thead>
   <tbody>
     <tr>
-	    <td><i>Rel vX.Y.Z"</i></td>
+	    <td><i>Rel vX.Y.Z</i></td>
       <td>Release-tag's contain all the different versions of the Technical Specifications that have been approved by the Working Group and ratified by the Technical Steering Committee. The name of the release tag will follow Semantic versioning principles.</td>
    </tr>
     <tr>
@@ -502,6 +502,35 @@ In this section the diagram below depictures the development phases of technical
 	<img src="images/omp-git-flow.svg" alt="OMP GitHub Flow">
 	<figcaption>OMP GitHub Flow</figcaption>
 </figure>
+
+### GitHub Access Rights
+<table>
+  <caption>GitHub Access Rights</caption>
+  <thead>
+    <tr>
+	    <th>Role</th>
+	    <th>Access Rights</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Memberss</td>
+      <td><i>TRIAGE</i> - Can read and clone this repository. Can also manage issues and pull requests.</td>
+   </tr>
+    <tr>
+      <td>Editors</td>
+      <td><i>WRITE</i> -  Can read, clone, and push to this repository. Can also manage issues and pull requests.</td>
+   </tr>
+   <tr>
+      <td>Chairs</td>
+      <td><i>WRITE</i> -  Can read, clone, and push to this repository. Can also manage issues and pull requests.</td>
+   </tr>
+   <tr>
+      <td>Maintainer</td>
+      <td><i>feature-branch-x</i> - Can read, clone, and push to this repository. They can also manage issues, pull requests, and some repository settings.</td>
+   </tr>
+  </tbody>
+</table>
 
 ## Reference Material
 ### Documents
