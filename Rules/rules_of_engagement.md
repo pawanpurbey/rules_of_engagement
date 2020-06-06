@@ -514,7 +514,7 @@ In this section the diagram below depictures the development phases of technical
   </thead>
   <tbody>
     <tr>
-      <td>Memberss</td>
+      <td>Members</td>
       <td><i>TRIAGE</i> - Can read and clone this repository. Can also manage issues and pull requests.</td>
    </tr>
     <tr>
