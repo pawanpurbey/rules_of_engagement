@@ -71,6 +71,16 @@
 </table>
 
 ## Governance
+### Membership Levels
+Note:
+```
+Project Charter - 2. Membership Levels
+
+2.1.	Steering Member.  Steering Members may participate in each Working Group and, unless waived per the Membership Agreement, the Steering Committee.
+2.2.	Associate.  Associates may participate in each Working Group, but do not participate on the Steering Committee. 
+2.3.	Contributor.  Contributors may participate in each Working Group, but do not participate on the Steering Committee and are not eligible to participate in decisions that require a Supermajority Vote.
+```
+
 ### Organization Structure
 <figure>
 	<img src="images/omp_governance.svg" alt="OMP Governance Structure">
