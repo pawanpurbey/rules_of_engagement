@@ -121,6 +121,10 @@ Kindly consult [OMP Dictionary](https://github.com/OpenManufacturingPlatform/dic
     <td>Working Group</td>
   </tr>
   <tr>
+    <td>OMP</td>
+    <td>Open Manufacturing Platform</td>
+  </tr>	
+  <tr>
     <td>PR</td>
     <td>Pull Request</td>
   </tr>	
@@ -159,17 +163,21 @@ Kindly consult [OMP Dictionary](https://github.com/OpenManufacturingPlatform/dic
   <caption>OMP Overview</caption>
   <thead>
     <tr>
-	    <th>Category</th>
+      <th>Category</th>
       <th>System</th>
-	    <th>Description</th>
+      <th>Description</th>
     </tr>
   </thead>
   <tbody>
    <tr>
-	    <td rowspan="4"><i>Public</i></td>
+      <td rowspan="5"><i>Public</i></td>
       <td><a href="https://" target="_blank"><strong>Website</strong></a></td>
       <td>Public website dedicated to marketing content ...</td>
    </tr>
+   <tr>
+      <td><a href="https://" target="_blank"><strong>GitHub (public)</strong></a></td>
+      <td>OMP GitHub repositories open to the public ...</td>
+   </tr>	  
    <tr>
       <td><a href="https://" target="_blank"><strong>Technical Publication</strong></a></td>
       <td>Technical Specifications created by Open Manufacturig Platform ...</td>
@@ -184,7 +192,7 @@ Kindly consult [OMP Dictionary](https://github.com/OpenManufacturingPlatform/dic
    </tr>
 
    <tr>
-	    <td rowspan="5"><i>Private - MS Teams</i></td>
+      <td rowspan="5"><i>Private - MS Teams</i></td>
       <td><a href="https://" target="_blank"><strong>Messaging</strong></a></td>
       <td> ...</td>
    </tr>
