@@ -78,6 +78,12 @@
 </figure>
 
 #### Technical Steering Committee
+Note:
+```
+Project Charter - 3.1 Steering Committee
+The Steering Committee is the body that is responsible for governing the Project.
+```
+
 ##### Committee's
 ##### Birds of Feather
 #### Working Groups (WG)
