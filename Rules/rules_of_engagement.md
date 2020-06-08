@@ -270,6 +270,208 @@ Project Charter - 5. Deliverable Development Process
 
 * Working Groups (WGs) are [chartered]() by SC to handle one or more Work Packages.
 
+### Membership Benefits
+
+<table>
+  <caption>Membership Benefits</caption>
+  <thead>
+    <tr>
+        <th></th>
+        <th>Steering</th>
+        <th>Associate</th>
+        <th>Contributor</th>
+        <th>Public</th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr>
+        <td colspan="5"><strong>Pricing</strong></td>
+    </tr>
+    <tr>
+        <td>Price</td>
+        <td>$</td>
+        <td>$</td>
+        <td>$</td>
+        <td>$0</td>
+    </tr>
+    <tr>
+        <td colspan="5"><strong>Leadership</strong></td>
+    </tr>
+    <tr>
+        <td>Eligible to participate in the Steering Committee</td>
+        <td>by default</td>
+        <td>No</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Eligible for a Workig Group Chair position</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Eligible for a Working Group Co-Chair position</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td colspan="5"><strong>Participation</strong></td>
+    </tr>
+    <tr>
+        <td>Eligible to join a Working Group</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Eligible to join the Administration Team</td>
+        <td>by default</td>
+        <td>Yes</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Eligible to join the Organization Team</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Eligible to join the Communications Team</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td colspan="6"><strong>Contribution</strong></td>
+    </tr>
+    <tr>
+        <td>May contribute to specifications</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>May initiate a Work Package</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+    </tr>
+    <tr>
+        <td>May support a Work Package</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>    
+    <tr>
+        <td>Counted towards minimum support quorum of a Work Package</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td colspan="5"><strong>Voting</strong></td>
+    </tr>
+    <tr>
+        <td>Approval of Publications & Working Group formation</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Vote in a Supermajority vote</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Vote in a informal technical vote</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Participate in consensus polls (R&A)</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td colspan="5"><strong>Access to Documentation</strong></td>
+    </tr>
+    <tr>
+        <td>Access to common MS Teams areas and GitHub repositories</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+    </tr>
+    <tr>
+        <td>Access to restricted MS Teams areas and private GitHub repositories</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>  
+    <tr>
+        <td colspan="5"><strong>Access to Meetings</strong></td>
+    </tr>
+    <tr>
+        <td>Attend Work Group meetings (F2F, conference calls, interim)</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Attend speicial events | seminars</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>TBD</td>
+    </tr>
+    <tr>
+        <td colspan="5"><strong>Process Administration</strong></td>
+    </tr>
+    <tr>
+        <td>May propose the creation of a Working Group</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>May appeal on technical issues</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>May appeal on procedural issues</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+  </tbody>
+</table>
+
 ## Work Units
 
 <figure>
