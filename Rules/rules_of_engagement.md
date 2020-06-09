@@ -299,13 +299,13 @@ Project Charter - 5. Deliverable Development Process
     </tr>
     <tr>
         <td>Eligible to participate in the Steering Committee</td>
-        <td>by default</td>
+        <td>Yes</td>
         <td>No</td>
         <td>No</td>
         <td>No</td>
     </tr>
     <tr>
-        <td>Eligible for a Workig Group Chair position</td>
+        <td>Eligible for a Working Group Chair position</td>
         <td>Yes</td>
         <td>Yes</td>
         <td>No</td>
@@ -330,7 +330,7 @@ Project Charter - 5. Deliverable Development Process
     </tr>
     <tr>
         <td>Eligible to join the Administration Team</td>
-        <td>by default</td>
+        <td>Yes</td>
         <td>Yes</td>
         <td>No</td>
         <td>No</td>
@@ -350,7 +350,7 @@ Project Charter - 5. Deliverable Development Process
         <td>No</td>
     </tr>
     <tr>
-        <td colspan="6"><strong>Contribution</strong></td>
+        <td colspan="5"><strong>Contribution</strong></td>
     </tr>
     <tr>
         <td>May contribute to specifications</td>
@@ -360,24 +360,17 @@ Project Charter - 5. Deliverable Development Process
         <td>No</td>
     </tr>
     <tr>
-        <td>May initiate a Work Package</td>
+        <td>May propose a Work Package</td>
         <td>Yes</td>
         <td>Yes</td>
         <td>Yes</td>
         <td>Yes</td>
-    </tr>
-    <tr>
-        <td>May support a Work Package</td>
-        <td>Yes</td>
-        <td>Yes</td>
-        <td>Yes</td>
-        <td>No</td>
-    </tr>    
+    </tr>   
     <tr>
         <td>Counted towards minimum support quorum of a Work Package</td>
         <td>Yes</td>
         <td>Yes</td>
-        <td>Yes</td>
+        <td>No</td>
         <td>No</td>
     </tr>
     <tr>
@@ -387,7 +380,7 @@ Project Charter - 5. Deliverable Development Process
         <td>Approval of Publications & Working Group formation</td>
         <td>Yes</td>
         <td>Yes</td>
-        <td>Yes</td>
+        <td>No</td>
         <td>No</td>
     </tr>
     <tr>
@@ -398,7 +391,7 @@ Project Charter - 5. Deliverable Development Process
         <td>No</td>
     </tr>
     <tr>
-        <td>Vote in a informal technical vote</td>
+	<td>Vote in a <u>informal</u> technical vote</td>
         <td>Yes</td>
         <td>Yes</td>
         <td>Yes</td>
@@ -415,11 +408,11 @@ Project Charter - 5. Deliverable Development Process
         <td colspan="5"><strong>Access to Documentation</strong></td>
     </tr>
     <tr>
-        <td>Access to common MS Teams areas and GitHub repositories</td>
+        <td>Access to common MS Teams areas</td>
         <td>Yes</td>
         <td>Yes</td>
         <td>Yes</td>
-        <td>Yes</td>
+        <td>No</td>
     </tr>
     <tr>
         <td>Access to restricted MS Teams areas and private GitHub repositories</td>
@@ -439,7 +432,7 @@ Project Charter - 5. Deliverable Development Process
         <td>No</td>
     </tr>
     <tr>
-        <td>Attend speicial events | seminars</td>
+        <td>Attend special events | seminars</td>
         <td>Yes</td>
         <td>Yes</td>
         <td>Yes</td>
@@ -452,7 +445,7 @@ Project Charter - 5. Deliverable Development Process
         <td>May propose the creation of a Working Group</td>
         <td>Yes</td>
         <td>Yes</td>
-        <td>Yes</td>
+        <td>No</td>
         <td>No</td>
     </tr>
     <tr>
