@@ -445,7 +445,7 @@ Project Charter - 5. Deliverable Development Process
         <td>May propose the creation of a Working Group</td>
         <td>Yes</td>
         <td>Yes</td>
-        <td>No</td>
+        <td>Yes</td>
         <td>No</td>
     </tr>
     <tr>
