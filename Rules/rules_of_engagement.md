@@ -280,7 +280,7 @@ Project Charter - 5. Deliverable Development Process
         <th>Steering</th>
         <th>Associate</th>
         <th>Contributor</th>
-        <th>Public</th>
+        <th>OMP Community</th>
     </tr>
   </thead>
   <tbody>
@@ -319,8 +319,29 @@ Project Charter - 5. Deliverable Development Process
         <td>No</td>
     </tr>
     <tr>
-        <td colspan="5"><strong>Participation</strong></td>
+        <td colspan="8"><strong>Participation</strong></td>
     </tr>
+    <tr>
+        <td>Use the output of working groups</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+    </tr>
+    <tr>
+        <td>Stay up-to-date on OMP progress & innovations</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+    </tr>
+    <tr>
+        <td>Contribute ideas to the member alliance</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+    </tr>	  
     <tr>
         <td>Eligible to join a Working Group</td>
         <td>Yes</td>
