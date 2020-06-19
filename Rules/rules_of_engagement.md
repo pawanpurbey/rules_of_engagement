@@ -319,7 +319,7 @@ Project Charter - 5. Deliverable Development Process
         <td>No</td>
     </tr>
     <tr>
-        <td colspan="8"><strong>Participation</strong></td>
+        <td colspan="7"><strong>Participation</strong></td>
     </tr>
     <tr>
         <td>Use the output of working groups</td>
@@ -330,13 +330,6 @@ Project Charter - 5. Deliverable Development Process
     </tr>
     <tr>
         <td>Stay up-to-date on OMP progress & innovations</td>
-        <td>Yes</td>
-        <td>Yes</td>
-        <td>Yes</td>
-        <td>Yes</td>
-    </tr>
-    <tr>
-        <td>Contribute ideas to the member alliance</td>
         <td>Yes</td>
         <td>Yes</td>
         <td>Yes</td>
@@ -371,15 +364,50 @@ Project Charter - 5. Deliverable Development Process
         <td>No</td>
     </tr>
     <tr>
-        <td colspan="5"><strong>Contribution</strong></td>
+        <td colspan="8"><strong>Contribution</strong></td>
     </tr>
     <tr>
-        <td>May contribute to specifications</td>
+        <td>Contribute ideas to the member alliance</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+    </tr>
+    <tr>
+        <td>Access in-depth information on working groups</td>
         <td>Yes</td>
         <td>Yes</td>
         <td>Yes</td>
         <td>No</td>
     </tr>
+    <tr>
+        <td>Contribute to working groups</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Influence working group solutions</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Propose new working groups</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>Influence working group outcomes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>	  
     <tr>
         <td>May propose a Work Package</td>
         <td>Yes</td>
@@ -398,9 +426,9 @@ Project Charter - 5. Deliverable Development Process
         <td colspan="5"><strong>Voting</strong></td>
     </tr>
     <tr>
-        <td>Approval of Publications & Working Group formation</td>
+        <td>Approval of Publications, Working Group formation and OMP governance</td>
         <td>Yes</td>
-        <td>Yes</td>
+        <td>No</td>
         <td>No</td>
         <td>No</td>
     </tr>
